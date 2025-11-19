@@ -1,0 +1,26 @@
+baseURL = "https://circuitdiaries.co.uk/"
+title = "Circuit Diaries"
+languageCode = "en-gb"
+theme = "PaperMod"
+
+[pagination]
+  pagerSize = 10
+
+
+[params]
+  defaultTheme = "light"          # "light", "dark", or "auto"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  disableSpecial1stPost = true
+
+  # 👇 this is the important bit
+  mainSections = ["posts"]
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
