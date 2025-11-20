@@ -16,7 +16,22 @@ theme = "PaperMod"
   disableSpecial1stPost = true
   mainSections = ["posts"]
   # how many menu items to show in navbar; rest go in "More" menu
-  ShowMenuItems = 3
+  ShowMenuItems = 4
+  comments = true           # turn comments on globally
+
+[params.giscus]
+  repo = "amirfarjam/circuitdiaries"
+  repoID = "R_kgDOQZM0Aw"
+  category = "Comments"
+  categoryID = "DIC_kwDOQZM0A84CyAh6"
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  lang = "en"
+  loading = "lazy"
+
+
 
 [markup]
   [markup.goldmark]
