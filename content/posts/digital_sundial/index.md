@@ -3,7 +3,7 @@ title: "Digital Sundial"
 date: 2020-03-01
 tags: ["3d-printing", "diy", "timekeeping"]
 cover:
-  image: "/attachments/logos.jpg"
+  image: "attachments/logos.jpg"
   alt: "3D printed digital sundial"
   caption: ""
 description: "A 3D-printed digital sundial that uses sunlight to project digital-style numbers, exploring light, geometry, and ideas for more Edinburgh-friendly, motorised versions."
