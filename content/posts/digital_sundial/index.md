@@ -1,6 +1,6 @@
 ---
 title: "Digital Sundial"
-date: 2020-03-01
+date: 2024-10-13
 tags: ["3d-printing", "diy", "timekeeping"]
 cover:
   image: "attachments/logos.jpg"
