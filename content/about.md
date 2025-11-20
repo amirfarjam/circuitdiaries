@@ -1,12 +1,13 @@
 # About
-I can’t think of anything meaningful to write here.  
-This page is basically _Lorem Ipsum_, but at least it openly admits it.
 
-Right now, it exists purely to fill space and pretend to have purpose.  
-One day, I might replace it with something thoughtful.  
-Maybe even profound.  
-But today is not that day.
+Look, I’ll be honest:  
+I made this page because every website has an About page,  
+and I didn’t want mine to feel left out.
 
-Until then, please enjoy this placeholder that knows it’s a placeholder.
+One day it’ll say something profound.  
+Today it’s basically waving awkwardly from across the room.
 
-_— Amir_
+If you actually want to contact me (which… wow),  
+email **info@newfolder22.co.uk**.
+
+— Amir
