@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write   # needed for gh-pages pushes
+  contents: write
 
 jobs:
   build-and-deploy:
@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          submodules: true      # pull PaperMod theme if it's a submodule
+          fetch-depth: 0
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
@@ -33,4 +36,3 @@ jobs:
           publish_dir: ./public
           publish_branch: gh-pages
           force_orphan: true
-
