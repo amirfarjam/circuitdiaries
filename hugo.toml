@@ -25,19 +25,25 @@ theme = "PaperMod"
 
 [menu]
   [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "github"
     name = "GitHub"
     url = "https://github.com/amirfarjam/circuitdiaries"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "https://newfolder22.co.uk/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 3
+    weight = 4
