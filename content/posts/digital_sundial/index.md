@@ -9,8 +9,6 @@ cover:
 description: "A 3D-printed digital sundial that uses sunlight to project digital-style numbers, exploring light, geometry, and ideas for more Edinburgh-friendly, motorised versions."
 ---
 
-# Digital Sundial
-
 A digital sundial is a modern twist on one of the oldest timekeeping devices. Unlike a traditional sundial, which shows the time by use of the shadow of a gnomon (an upright stick) a digital sundial projects numbers onto a surface using sunlight, so presenting the time like a digital clock. The basic form of a digital sundial just shows an hour; a more advanced one can show minutes in 10 or 5, or one-minute intervals.
 
 **History**
