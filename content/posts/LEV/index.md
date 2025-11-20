@@ -50,7 +50,7 @@ LEV isn’t just a lab puzzle; it’s an everything puzzle, our biggest and mayb
 We’re not yet powering past the waterfall, but the labs are buzzing, money’s pouring in, …and it won’t be long before people are comparing longevity test results over coffee. Just keep paddling, keep laughing, and travel light—this river might carry us a whole lot farther than anyone ever thought.
 
 #### References
-[1] De Grey, A. D. N. J. “Escape Velocity: Why the Prospect of Extreme Human Life Extension Matters Now.” _PLOS Biology_, 2004.
-[2] World Health Organization. “COVID‑19 eliminated a decade of progress in global life expectancy.” May 24 2024.
-[3] Zhu H. et al. “Senolytics: from pharmacological inhibitors to immunotherapies.” _npj Aging_, 2024.
-[4] New York Post. “These supplements can get rid of ‘zombie cells’ that speed up aging — but doctors have a warning.” Feb 19 2025.
+1. De Grey, A. D. N. J. “Escape Velocity: Why the Prospect of Extreme Human Life Extension Matters Now.” _PLOS Biology_, 2004.
+2. World Health Organization. “COVID‑19 eliminated a decade of progress in global life expectancy.” May 24 2024.
+3. Zhu H. et al. “Senolytics: from pharmacological inhibitors to immunotherapies.” _npj Aging_, 2024.
+4. New York Post. “These supplements can get rid of ‘zombie cells’ that speed up aging — but doctors have a warning.” Feb 19 2025.
