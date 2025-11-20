@@ -1,0 +1,27 @@
+{{- /* Comments area start (Giscus) */ -}}
+{{- if isset .Site.Params "giscus" -}}
+  {{- $g := .Site.Params.giscus -}}
+  {{- $disabled := .Params.disable_comments | default false -}}
+  {{- if and (isset $g "repo") (ne $g.repo "") (not $disabled) -}}
+
+  <section id="comments">
+    <script src="https://giscus.app/client.js"
+      data-repo="{{ $g.repo }}"
+      data-repo-id="{{ $g.repoID }}"
+      data-category="{{ $g.category }}"
+      data-category-id="{{ $g.categoryID }}"
+      data-mapping="{{ default "pathname" $g.mapping }}"
+      data-reactions-enabled="{{ default "1" $g.reactionsEnabled }}"
+      data-emit-metadata="{{ default "0" $g.emitMetadata }}"
+      data-input-position="{{ default "bottom" $g.inputPosition }}"
+      data-theme="{{ default "preferred_color_scheme" $g.theme }}"
+      data-lang="{{ default "en" $g.lang }}"
+      data-loading="{{ default "lazy" $g.loading }}"
+      crossorigin="anonymous"
+      async>
+    </script>
+  </section>
+
+  {{- end -}}
+{{- end -}}
+{{- /* Comments area end */ -}}
