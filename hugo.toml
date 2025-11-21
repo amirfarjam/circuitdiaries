@@ -17,7 +17,7 @@ theme = "PaperMod"
   mainSections = ["posts"]
   # how many menu items to show in navbar; rest go in "More" menu
   ShowMenuItems = 4
-  comments = true           # turn comments on globally
+  comments = true
   useDescription = true
 
 [params.giscus]
@@ -32,7 +32,23 @@ theme = "PaperMod"
   lang = "en"
   loading = "lazy"
 
+[params.assets]
+  favicon = "/favicon.ico"
+  favicon16x16 = "/favicon-16x16.png"
+  favicon32x32 = "/favicon-32x32.png"
+  apple_touch_icon = "/apple-touch-icon.png"
 
+[[params.socialIcons]]
+  name = "github"
+  url  = "https://github.com/amirfarjam"
+
+[[params.socialIcons]]
+  name = "linkedin"
+  url  = "https://www.linkedin.com/in/amirfarjamm/"
+
+[[params.socialIcons]]
+  name = "email"
+  url  = "mailto:info@newfolder22.co.uk"
 
 [markup]
   [markup.goldmark]
