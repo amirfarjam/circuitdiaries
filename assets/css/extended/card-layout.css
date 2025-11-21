@@ -43,13 +43,63 @@
   margin: 0;
 }
 
+/* ---------- TAG PAGES: make tag lists look like post cards ---------- */
+
+/* Same card grid for tag entries */
+.tag-entry {
+  display: grid;
+  grid-template-columns: 220px minmax(0, 1fr);
+  grid-auto-rows: auto;
+  column-gap: var(--gap);
+  align-items: center;
+}
+
+/* Override theme's "display: none" and place cover on the left */
+.tag-entry .entry-cover {
+  grid-column: 1;
+  grid-row: 1 / span 3;
+  margin-bottom: 0;
+  display: block;
+}
+
+.tag-entry .entry-cover img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--radius);
+}
+
+/* Text column for tag entries */
+.tag-entry .entry-header,
+.tag-entry .entry-content,
+.tag-entry .entry-footer {
+  grid-column: 2;
+}
+
+/* Keep tag-page titles tidy */
+.tag-entry .entry-header h2 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+  word-break: normal;
+}
+
+/* Clamp tag-page summaries to 3 lines as well */
+.tag-entry .entry-content p {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin: 0;
+}
+
 /* On small screens: go back to vertical layout */
 @media screen and (max-width: 768px) {
-  .post-entry {
+  .post-entry,
+  .tag-entry {
     display: block;
   }
 
-  .post-entry .entry-cover {
+  .post-entry .entry-cover,
+  .tag-entry .entry-cover {
     margin-bottom: var(--gap);
   }
 }

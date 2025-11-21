@@ -1,7 +1,7 @@
 ---
 title: "DIY Home Project #472: Bubble-wrap the Sun with a Dyson Sphere"
 date: 2025-05-12
-tags: ["space", "science", "future-tech"]
+tags: ["space", "astronomy", "tech"]
 cover:
   image: "attachments/sun.png"
   alt: "Stylised image of the Sun representing a Dyson sphere concept"

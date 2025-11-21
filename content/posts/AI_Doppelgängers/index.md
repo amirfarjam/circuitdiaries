@@ -1,7 +1,7 @@
 ---
 title: "AI Doppelgängers Are the Hottest Thing Since the Sims"
 date: 2025-05-13
-tags: ["AI", "agents", "LLM", "simulation"]
+tags: ["AI", "agents", "simulation"]
 cover:
   image: "attachments/smalvill1.png"
   alt: "Stylized Smallville-style AI agent simulation scene"

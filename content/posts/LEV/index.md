@@ -1,7 +1,7 @@
 ---
 title: "Longevity Escape Velocity"
 date: 2025-05-08
-tags: ["longevity", "aging", "biogerontology", "life-extension", "science"]
+tags: ["longevity", "aging", "biogerontology"]
 cover:
   image: "attachments/stairs.png"
   alt: "Conceptual stairs symbolizing progress toward longevity escape velocity"

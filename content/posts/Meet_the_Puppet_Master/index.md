@@ -1,7 +1,7 @@
 ---
 title: "Meet the Puppet Master Living in Your Skull"
 date: 2025-05-22
-tags: ["neuroscience", "free-will", "consciousness", "cognitive-science"]
+tags: ["neuroscience", "free-will", "philosophy"]
 cover:
   image: "attachments/masterpuppet.png"
   alt: "Illustration of a puppet master controlling a human brain"

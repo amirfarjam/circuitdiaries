@@ -1,7 +1,7 @@
 ---
 title: "Digital Sundial"
 date: 2024-10-13
-tags: ["3d-printing", "diy", "timekeeping"]
+tags: ["3d-printing", "diy", "electronics","astronomy"]
 cover:
   image: "attachments/logos.jpg"
   alt: "3D printed digital sundial"
