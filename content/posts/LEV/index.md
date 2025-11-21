@@ -12,7 +12,7 @@ comments: true
 
 ## Turning the Tide on Time—Keep Calm and Keep Swimming
 Picture yourself floating down a broad, slow‑moving river. In the distance, you can hear a waterfall roaring —yep, that’s death. Let the current carry you, and You get closer and closer to the drop (ordinary aging). Start a casual dog‑paddle and you barely hold your place. switching to a strong breaststroke and racing the river’s draw—and boom: you’ve reached **longevity escape velocity (LEV)**, adding healthy years quicker than the calendar can steal them. One splash‑friendly dream.
-![swim.png](Blog/posts/LEV/attachments/swim.png)
+![swim](attachments/swim.png)
 
 ### 1  . Who first yelled “Swim harder!”
 Biogerontologist **Aubrey de Grey** proposed the LEV idea in his 2004 paper _“Escape Velocity: Why the Prospect of Extreme Human Life Extension Matters Now.”_ He argued that If we can push biomedical progress so that each calendar year adds **> 1 extra year** to remaining life expectancy, people who receive periodic “rejuvenation” treatments will outrun ageing indefinitely. He likens it to firing a rocket fast enough to leave Earth’s gravity [1]. Something like our swimmer.

@@ -18,6 +18,7 @@ theme = "PaperMod"
   # how many menu items to show in navbar; rest go in "More" menu
   ShowMenuItems = 4
   comments = true           # turn comments on globally
+  useDescription = true
 
 [params.giscus]
   repo = "amirfarjam/circuitdiaries"
