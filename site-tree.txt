@@ -1,0 +1,261 @@
+.
+├── archetypes
+│   └── default.md
+├── assets
+│   └── css
+│       └── extended
+│           ├── card-layout.css
+│           └── custom.css
+├── content
+│   ├── _index.md
+│   ├── about.md
+│   └── posts
+│       ├── AI_Doppelgängers
+│       │   ├── attachments
+│       │   └── index.md
+│       ├── Bubble-wrap_the_Sun
+│       │   ├── attachments
+│       │   └── index.md
+│       ├── digital_sundial
+│       │   ├── attachments
+│       │   └── index.md
+│       ├── LEV
+│       │   ├── attachments
+│       │   └── index.md
+│       └── Meet_the_Puppet_Master
+│           ├── attachments
+│           └── index.md
+├── data
+├── hugo_stats.json
+├── hugo.toml
+├── i18n
+├── layouts
+│   ├── _default
+│   │   ├── list.html
+│   │   └── single.html
+│   └── partials
+│       ├── comments.html
+│       ├── extend_head.html
+│       ├── footer.html
+│       └── list
+├── postcss.config.js
+├── public
+│   ├── 404.html
+│   ├── about
+│   │   ├── index.html
+│   │   ├── index.md
+│   │   │   └── index.html
+│   │   ├── index.xml
+│   │   └── page
+│   │       └── 1
+│   ├── about.md
+│   │   └── index.html
+│   ├── apple-touch-icon.png
+│   ├── assets
+│   │   └── css
+│   │       ├── stylesheet.539387ace00d5b08826968e77407028633e79ed2a0122c8c6ef0dd2463466adc.css
+│   │       ├── stylesheet.652f0868d55be5139a97b2136cb8cbb6ce71697959cbf128051ea47a8a72d5f0.css
+│   │       └── stylesheet.9b8ef3940e705053d08549c3852e5e3e82a38cfe16e0ba14a4553496e47d78d8.css
+│   ├── categories
+│   │   ├── index.html
+│   │   └── index.xml
+│   ├── CNAME
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── index.xml
+│   ├── page
+│   │   └── 1
+│   │       └── index.html
+│   ├── posts
+│   │   ├── ai_doppelgängers
+│   │   │   ├── attachments
+│   │   │   └── index.html
+│   │   ├── bubble-wrap_the_sun
+│   │   │   ├── attachments
+│   │   │   └── index.html
+│   │   ├── digital_sundial
+│   │   │   ├── attachments
+│   │   │   └── index.html
+│   │   ├── index.html
+│   │   ├── index.xml
+│   │   ├── lev
+│   │   │   ├── attachments
+│   │   │   └── index.html
+│   │   ├── meet_the_puppet_master
+│   │   │   ├── attachments
+│   │   │   └── index.html
+│   │   └── page
+│   │       └── 1
+│   ├── sitemap.xml
+│   └── tags
+│       ├── 3d-printing
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── agents
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── aging
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── ai
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── astronomy
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── biogerontology
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── cognitive-science
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── consciousness
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── diy
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── electronics
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── free-will
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── future-tech
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── index.html
+│       ├── index.xml
+│       ├── life-extension
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── llm
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── longevity
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── neuroscience
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── philosophy
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── science
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── simulation
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── space
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       ├── tech
+│       │   ├── index.html
+│       │   ├── index.xml
+│       │   └── page
+│       └── timekeeping
+│           ├── index.html
+│           ├── index.xml
+│           └── page
+├── resources
+│   └── _gen
+│       └── assets
+│           └── css
+├── site-tree.txt
+├── static
+│   ├── apple-touch-icon.png
+│   ├── CNAME
+│   ├── favicon-16x16.png
+│   ├── favicon-32x32.png
+│   └── favicon.ico
+├── sync_from_obsidian.sh
+└── themes
+    └── PaperMod
+        ├── assets
+        │   ├── css
+        │   └── js
+        ├── go.mod
+        ├── i18n
+        │   ├── ar.yaml
+        │   ├── be.yaml
+        │   ├── bg.yaml
+        │   ├── bn.yaml
+        │   ├── ca.yaml
+        │   ├── ckb.yaml
+        │   ├── cs.yaml
+        │   ├── da.yaml
+        │   ├── de.yaml
+        │   ├── el.yaml
+        │   ├── en.yaml
+        │   ├── eo.yaml
+        │   ├── es.yaml
+        │   ├── fa.yaml
+        │   ├── fi.yaml
+        │   ├── fr.yaml
+        │   ├── he.yaml
+        │   ├── hi.yaml
+        │   ├── hr.yaml
+        │   ├── hu.yaml
+        │   ├── id.yaml
+        │   ├── it.yaml
+        │   ├── ja.yaml
+        │   ├── ko.yaml
+        │   ├── ku.yaml
+        │   ├── mn.yaml
+        │   ├── ms.yaml
+        │   ├── nl.yaml
+        │   ├── no.yaml
+        │   ├── oc.yaml
+        │   ├── pa.yaml
+        │   ├── pl.yaml
+        │   ├── pnb.yaml
+        │   ├── pt.yaml
+        │   ├── ro.yaml
+        │   ├── ru.yaml
+        │   ├── sk.yaml
+        │   ├── sv.yaml
+        │   ├── sw.yaml
+        │   ├── th.yaml
+        │   ├── tr.yaml
+        │   ├── uk.yaml
+        │   ├── uz.yaml
+        │   ├── vi.yaml
+        │   ├── zh-tw.yaml
+        │   └── zh.yaml
+        ├── images
+        │   ├── screenshot.png
+        │   └── tn.png
+        ├── layouts
+        │   ├── _default
+        │   ├── 404.html
+        │   ├── partials
+        │   ├── robots.txt
+        │   └── shortcodes
+        ├── LICENSE
+        ├── README.md
+        └── theme.toml
+
+108 directories, 151 files
