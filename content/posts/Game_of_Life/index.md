@@ -106,10 +106,10 @@ The Game of Life eventually realised John von Neumann’s dream: machines capabl
 
 Far from being a solved game, the Game of Life has seen a massive resurgence in the 2020s. A mix of hobbyists and mathematicians, using distributed computing, have resolved decades-old theoretical problems.
 
-- **The "Grandfather Problem" (Solved 2022) \[4]:**
-    - **The Question:** Can a pattern exist that has an ancestor exactly $n$ generations back, but no ancestor at $n+1$?
+- **The "Grandfather Problem" (Solved 2022):**
+    - **The Question:** Can a pattern exist that has an ancestor exactly **n** generations back, but no ancestor at **n+1**?
     - **The Solution:** Researchers Ville Salo and Ilkka Törmä proved **yes**.
-    - **The Implication:** This confirmed the existence of **unsynthesisable still lifes**. These are "Godlike" patterns that cannot be created by the collision of gliders or other parts; they effectively must have existed for all time or not at all.
+    - **The Implication:** This confirmed the existence of **unsynthesisable still lifes**. These are "Godlike" patterns that cannot be created by the collision of gliders or other parts; they effectively must have existed for all time or not at all \[4].
         
 - **Omniperiodicity (Achieved 2023):**
     - **The Quest:** To prove that Life contains an oscillator for _every_ possible integer period.
