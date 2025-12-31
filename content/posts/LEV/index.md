@@ -1,12 +1,14 @@
 ---
-title: "Longevity Escape Velocity"
+title: Longevity Escape Velocity
 date: 2025-05-08
-tags: ["longevity", "aging", "biogerontology"]
+tags:
+  - longevity
+  - aging
 cover:
-  image: "attachments/stairs.png"
-  alt: "Conceptual stairs symbolizing progress toward longevity escape velocity"
+  image: attachments/stairs.png
+  alt: Conceptual stairs symbolizing progress toward longevity escape velocity
   caption: ""
-description: "What is longevity escape velocity, who coined it, how close we are, and what science says about outrunning aging."
+description: What is longevity escape velocity, who coined it, how close we are, and what science says about outrunning aging.
 comments: true
 ---
 
