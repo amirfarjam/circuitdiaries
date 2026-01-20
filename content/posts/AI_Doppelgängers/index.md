@@ -12,7 +12,7 @@ description: "How researchers built AI doppelgängers from real people—scaling
 1.**Smallville Revisited: How the 25-Agent Experiment Was Trained**
 Back in 2023, Joon Sung Park and colleagues unleashed **25 generative agents** into a pixel town [1] that looked suspiciously like _The Sims_.  
 _Training recipe:_ Each agent started with a single-sentence biography (“Evelyn, the friendly barista who loves art”) and the weights of a large-language model (LLM). The researchers did **not** pre-script behaviour. Instead, they wired the LLM to a cognitive loop—_perception → memory → retrieval → reflection → planning → action_. As the agents sensed events (e.g., seeing a neighbour), they stored that observation as short-term memory, later retrieving, summarising, and planning the next move. A few dozen such cycles per in-game day were enough for one agent to propose a Valentine’s Day party; the other 24 autonomously spread the news, formed dates, baked cupcakes, and showed up on time.
-![smalvill](attachments/smalvill.png)
+![smalvill](Blog/posts/AI_Doppelgängers/attachments/smalvill.png)
 Figure 1 – The Smallville sandbox world [1]
 
 2.**Bigville: Scaling Up to 1,052 AI Doppelgängers**
