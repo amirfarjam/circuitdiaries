@@ -12,8 +12,6 @@ description: How four tiny rules create a digital universe of life, logic, and s
 comments: true
 ---
 
-# Game of Life: A Digital Universe
-
 Imagine a universe where **the laws of nature fit on a sticky note**. In 1969, mathematician John Conway did exactly that, he sketched out **four simple rules** that birthed a digital cosmos on graph paper. Cells on an endless grid would live or die by these minimalist laws, and from this austere setup, complex “lifeforms” emerged. It sounds like sci-fi. Yet Conway’s creation, grandly titled the _Game of Life_, has been captivating hackers, mathematicians, and philosophers for decades. How can something so simple unleash phenomena so rich that it hints at the workings of our own universe? Let’s dive into the playful **world of Life**, where _blinkers_ blink, _gliders_ glide, and even **self-replicating creatures** hide, all to explore how immense complexity blossoms from simple, deterministic rules.
 ## Background: A Game of No Players and Infinite Grid
 

@@ -10,8 +10,6 @@ cover:
   caption: ""
 description: Why having many unfinished projects is not a personal failure but a rational strategy for resilience, creativity, and long-term relevance in an unpredictable world.
 ---
-# The M-Shaped Mind: Why Your Graveyard of Projects Is Strategic, Not Shameful
-
 ## Haunted by Unfinished Projects
 
 I used to feel a pang of shame whenever I glanced at my “graveyard” of unfinished projects. A half-coded app, a guitar riff with no song, a 3D printer gathering dust next to half-soldered PCBs. Leftovers of passions that flared brightly then faded. In a world that praises finishers and specialists, having too many interests (and too many abandoned endeavours) felt like a personal failing. The mantra “jack of all trades, master of none” echoed in my head. Was I sabotaging myself by not sticking to one thing?

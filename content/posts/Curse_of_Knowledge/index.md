@@ -12,7 +12,6 @@ cover:
 description: Why so much writing is unreadable, what Steven Pinker thinks we’re doing wrong, and how the curse of knowledge, abstraction, and rhythm sabotage clarity. A practical guide to better prose, rooted in cognitive science and style.
 comments: true
 ---
-# The Curse of Knowledge: Steven Pinker's Science of Good Writing
 
 Why is so much writing, especially academic prose, so hard to read? We've all encountered it: dense paragraphs filled with jargon, convoluted sentences that require three readings, and explanations that somehow manage to be both technically correct and utterly incomprehensible. The problem is so pervasive that it feels almost inevitable. Surely, we think, complex subjects demand complex writing.
 
