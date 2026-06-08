@@ -1,5 +1,5 @@
-baseURL = "https://circuitdiaries.co.uk/"
-title = "Circuit Diaries"
+baseURL = "https://foregroundhum.uk/"
+title = "Foreground Hum"
 languageCode = "en-gb"
 theme = "PaperMod"
 
@@ -7,7 +7,7 @@ theme = "PaperMod"
   pagerSize = 10
 
 [params]
-  defaultTheme = "light"          # "light", "dark", or "auto"
+  defaultTheme = "light"
   ShowReadingTime = true
   ShowShareButtons = false
   ShowPostNavLinks = true
@@ -15,7 +15,6 @@ theme = "PaperMod"
   ShowCodeCopyButtons = true
   disableSpecial1stPost = true
   mainSections = ["posts"]
-  # how many menu items to show in navbar; rest go in "More" menu
   ShowMenuItems = 4
   comments = true
   useDescription = true
@@ -46,10 +45,6 @@ theme = "PaperMod"
   name = "linkedin"
   url  = "https://www.linkedin.com/in/amirfarjamm/"
 
-[[params.socialIcons]]
-  name = "email"
-  url  = "mailto:info@newfolder22.co.uk"
-
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -71,7 +66,7 @@ theme = "PaperMod"
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
-    url = "https://newfolder22.co.uk/"
+    url = "https://groundedhum.uk/"
     weight = 3
 
   [[menu.main]]
